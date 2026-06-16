@@ -213,3 +213,10 @@ Acciones que realiza:
 ## Licencia
 
 Este repositorio se publica con fines educativos en el marco del módulo de **Despliegue de Aplicaciones Web**.
+
+
+
+capturas
+<img width="966" height="356" alt="Captura de pantalla 2026-06-15 130616" src="https://github.com/user-attachments/assets/b5611e1f-4e0f-4c47-b940-0137ad81fd51" />
+<img width="1908" height="1012" alt="Captura de pantalla 2026-06-15 131601" src="https://github.com/user-attachments/assets/6350fdff-cd1c-4872-8ade-408df6cf86da" />
+<img width="1917" height="1020" alt="Captura de pantalla 2026-06-15 131810" src="https://github.com/user-attachments/assets/3c582d94-1803-4faa-821e-b912cdf42e6a" />
